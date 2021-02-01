@@ -15,4 +15,8 @@
   - Bridge 
   - Composite 
   
+  ## Source 
+  - CS3307: Prof. Mike Katchabaw
+  - "Design Patterns: Elements of Reusable Object-Oriented Software"
+  - "Mastering Python Design Patterns"
 
